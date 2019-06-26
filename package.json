@@ -1,17 +1,12 @@
 {
-	"name": "gulp-es6",
-	"version": "1.1.0",
-	"description": "Gulpfile setup for Javascript ES6 compiling, plus SCSS, images, and fonts handling",
-	"author": "Alessandro Castellani <me@alecaddd.com> (http://alecaddd.com)",
+	"name": "fed-concept-page",
+	"version": "0.0.1",
+	"description": "A concept design for my next website/blog/portfolio",
+	"author": "Jose Guerra",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Alecaddd/gulp-es6"
+		"url": "https://github.com/jsguerra/fed-concept-page"
 	},
-	"keywords": [
-		"gulp",
-		"es6",
-		"scss"
-	],
 	"devDependencies": {
 		"@babel/core": "^7.2.2",
 		"@babel/preset-env": "^7.2.3",
