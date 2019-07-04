@@ -1,7 +1,7 @@
 {
   "name": "fed-concept-page",
   "version": "1.0.0",
-  "description": "This will be a work in progress. This page will be a concept design for my next website/blog/portfolio.",
+  "description": "This a concept design for my next website/blog/portfolio.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
