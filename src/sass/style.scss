@@ -32,7 +32,9 @@
 
 // 06. Pages (page and posts specifics: content, articles, etc)
 // ======================================================================
-@import 'pages/page';
+@import
+  'pages/page',
+  'pages/home';
 
 
 // 07. Enhancements (hero treatments, sliders, etc)
