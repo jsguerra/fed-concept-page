@@ -1,0 +1,32 @@
+#master-header {
+  background-color: #212b57;
+  box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.1);
+  color: white;
+  padding: 1rem;
+
+  .container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+  }
+}
+
+#site-logo {
+  font-family: $font-family-1;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.social-links {
+  @include list-reset;
+  display: flex;
+  flex-flow: row nowrap;
+
+  li {
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
