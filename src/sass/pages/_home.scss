@@ -1,6 +1,10 @@
-.about-me {
-  background-color: #faf8ff;
-  padding: cre(80px);
+section {
+  background-color: $color-1;
+  padding: cre(80px) cre(20px);
+
+  &:nth-child(odd) {
+    background-color: transparent;
+  }
 
   h2 {
     text-align: center;
@@ -9,4 +13,48 @@
   .container {
     max-width: 612px;
   }
+}
+
+// About Section
+// =============================
+.about-me {
+
+}
+
+// Skills Section
+// =============================
+.skill-sets {
+
+  h2 {
+    margin-bottom: cre(40px);
+  }
+}
+
+.skillbar {
+  background-color: $color-3;
+  margin-bottom: cre(20px);
+
+  .skill {
+    padding: cre(10px) 0;
+  }
+}
+
+.html {
+  background-color: $color-4;
+  width: 50%;
+  overflow: hidden;
+
+  span {
+    font-size: 0.9rem;
+    background-color: darken($color-4, 10%);
+    color: white;
+    padding: cre(16px) cre(20px);
+  }
+}
+
+
+// Projects Section
+// =============================
+.projects {
+
 }
