@@ -40,13 +40,66 @@ section {
 }
 
 .html {
-  background-color: $color-4;
-  width: 50%;
+  background-color: $html-color;
+  width: 90%;
+  overflow: hidden;
+  transition: 0.5s ease;
+
+  span {
+    font-size: 0.9rem;
+    background-color: darken($html-color, 10%);
+    color: white;
+    padding: cre(16px) cre(20px);
+  }
+}
+
+.css {
+  background-color: $css-color;
+  width: 80%;
   overflow: hidden;
 
   span {
     font-size: 0.9rem;
-    background-color: darken($color-4, 10%);
+    background-color: darken($css-color, 10%);
+    color: white;
+    padding: cre(16px) cre(20px);
+  }
+}
+
+.sass {
+  background-color: $sass-color;
+  width: 85%;
+  overflow: hidden;
+
+  span {
+    font-size: 0.9rem;
+    background-color: darken($sass-color, 10%);
+    color: white;
+    padding: cre(16px) cre(20px);
+  }
+}
+
+.javascript {
+  background-color: $js-color;
+  width: 75%;
+  overflow: hidden;
+
+  span {
+    font-size: 0.9rem;
+    background-color: darken($js-color, 10%);
+    color: white;
+    padding: cre(16px) cre(20px);
+  }
+}
+
+.jquery {
+  background-color: $jquery-color;
+  width: 75%;
+  overflow: hidden;
+
+  span {
+    font-size: 0.9rem;
+    background-color: darken($jquery-color, 10%);
     color: white;
     padding: cre(16px) cre(20px);
   }
