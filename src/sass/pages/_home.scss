@@ -86,7 +86,22 @@ section {
 .projects {
 
   .container {
-    border: 1px solid black;
     max-width: 1100px;
+  }
+}
+
+.project-items {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  .project-item {
+    flex: 1;
+    max-width: 250px;
+
+    img {
+      max-width: 250px;
+      height: auto;
+    }
   }
 }

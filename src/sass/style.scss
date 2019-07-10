@@ -14,7 +14,9 @@
 
 // 03. html (top level settings: html, body, global settings)
 // ======================================================================
-@import 'html/html';
+@import
+  'html/html',
+  'html/button';
 
 
 // 04. Structure (header, navigtation, footer, aside, layout)
