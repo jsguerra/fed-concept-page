@@ -52,6 +52,7 @@
 
   .profile-image {
     max-width: 48%;
+    position: relative;
 
     img {
       max-width: 100%;
@@ -66,55 +67,59 @@
 
 // SVG Animation
 // =====================================
-.programmer {
+.computer {
 
   // Default Styles
   // =============================
   .cls-1{isolation:isolate;}
   .cls-2{fill:#d6953e;}
   .cls-3{fill:#b57b35;}
-  .cls-4{fill:#285c77;}
-  .cls-5{fill:#868689;}
-  .cls-6{fill:#6d6d6d;}
-  .cls-7{fill:#c5c4d7;}
-  .cls-8{fill:#a5a5ad;}
-  .cls-9{fill:#172f47;}
-  .cls-10{fill:#202739;}
-  .cls-11{fill:#a7a6bb;}
-  .cls-12{fill:#fefefe;}
-  .cls-13{fill:#fd7c3a;}
-  .cls-14{fill:#004db9;}
-  .cls-15{fill:#d3d3d3;}
-  .cls-15,
-  .cls-26{mix-blend-mode:multiply;}
-  .cls-16{fill:#adadad;}
-  .cls-17{fill:#e4e4ef;}
-  .cls-18{fill:#897762;}
-  .cls-19{fill:#331d0b;}
-  .cls-20{fill:#635140;}
-  .cls-21{fill:#edac7c;}
-  .cls-22{fill:#f7a588;}
-  .cls-23{fill:#cf9166;}
-  .cls-24{fill:#b57223;}
-  .cls-25{fill:#39748e;}
-  .cls-26{fill:#77bfd8;}
+  .cls-4{fill:#868689;}
+  .cls-5{fill:#6d6d6d;}
+  .cls-6{fill:#c5c4d7;}
+  .cls-7{fill:#a5a5ad;}
+  .cls-8{fill:#172f47;}
+  .cls-9{fill:#202739;}
+  .cls-10{fill:#a7a6bb;}
+  .cls-11{fill:#fefefe;}
+  .cls-12{fill:#fd7c3a;}
+  .cls-13{fill:#004db9;}
+  .cls-14{
+    fill:#d3d3d3;
+    mix-blend-mode:multiply;
+  }
+  .cls-15{fill:#adadad;}
+  .cls-16{fill:#e4e4ef;}
+}
+
+.programmer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 90%;
+
+  // Default Styles
+  // =====================
+  .cls-1{isolation:isolate;}
+  .cls-2{fill:#c5c4d7;}
+  .cls-3{fill:#897762;}
+  .cls-4{fill:#331d0b;}
+  .cls-5{fill:#635140;}
+  .cls-6{fill:#edac7c;}
+  .cls-7{fill:#f7a588;}
+  .cls-8{fill:#cf9166;}
+  .cls-9{fill:#b57223;}
+  .cls-10{fill:#004db9;}
+  .cls-11{fill:#39748e;}
+  .cls-12{fill:#285c77;}
+  .cls-13 {
+    fill:#77bfd8;
+    mix-blend-mode:multiply;
+  }
+  .cls-14{fill:#202739;}
 
   // Targated Styles
   // ==========================
-  .gear-small,
-  .gear-medium,
-  .gear-large {
-    transform-origin: 50% 50%;
-  }
-
-  .gear-small {
-    
-  }
-
-  .gear-medium {
-
-  }
-
   .gear-large {
     width: 141px;
     height: 141px;
