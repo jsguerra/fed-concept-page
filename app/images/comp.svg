@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.23 272.96">
+    <defs>
+        <style>.cls-1{isolation:isolate;}.cls-2{fill:#d6953e;}.cls-3{fill:#b57b35;}.cls-4{fill:#868689;}.cls-5{fill:#6d6d6d;}.cls-6{fill:#c5c4d7;}.cls-7{fill:#a5a5ad;}.cls-8{fill:#172f47;}.cls-9{fill:#202739;}.cls-10{fill:#a7a6bb;}.cls-11{fill:#fefefe;}.cls-12{fill:#fd7c3a;}.cls-13{fill:#004db9;}.cls-14{fill:#d3d3d3;mix-blend-mode:multiply;}.cls-15{fill:#adadad;}.cls-16{fill:#e4e4ef;}</style>
+    </defs>
+    <title>comp</title>
+    <g class="cls-1">
+        <g id="Layer_2" data-name="Layer 2">
+            <g id="OBJECTS">
+                <polygon class="cls-2" points="42.73 155.79 78.23 72.22 78.23 55.71 35.72 155.79 42.73 155.79" />
+                <polygon class="cls-3" points="73.13 71.21 78.23 72.22 78.23 55.71 72.11 70.11 71.05 72.61 73.13 71.21" />
+                <path id="_Path_" data-name="&lt;Path&gt;" class="cls-4" d="M16.88,164.39H338.35a4.33,4.33,0,0,0,4.33-4.33h0a4.33,4.33,0,0,0-4.33-4.33H16.88a4.33,4.33,0,0,0-4.33,4.33h0A4.33,4.33,0,0,0,16.88,164.39Z" />
+                <path class="cls-5" d="M12.91,161.78a4.34,4.34,0,0,0,4,2.61H338.35a4.34,4.34,0,0,0,4-2.61Z" />
+                <rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-6" x="111.63" y="151.18" width="119.29" height="4.54" transform="translate(342.55 306.91) rotate(180)" />
+                <rect id="_Rectangle_2" data-name="&lt;Rectangle&gt;" class="cls-7" x="123.74" y="151.18" width="119.29" height="4.54" transform="translate(366.77 306.91) rotate(180)" />
+                <rect id="_Rectangle_3" data-name="&lt;Rectangle&gt;" class="cls-8" x="82.25" y="4.02" width="191.61" height="119.84" rx="7" ry="7" />
+                <rect class="cls-9" x="176.74" y="21.97" width="2.58" height="83.79" />
+                <path class="cls-10" d="M273.86,16.59V10.48A6.46,6.46,0,0,0,267.4,4H88.71a6.46,6.46,0,0,0-6.46,6.46v6.11Z" />
+                <rect class="cls-11" x="193.23" y="65.43" width="26.33" height="4.54" />
+                <rect class="cls-12" x="193.23" y="74.22" width="32.77" height="4.54" />
+                <rect class="cls-11" x="229.36" y="74.22" width="16.24" height="4.54" />
+                <rect class="cls-11" x="193.23" y="83.02" width="12.88" height="4.54" />
+                <rect class="cls-11" x="210.59" y="83.02" width="48.45" height="4.54" />
+                <rect class="cls-13" x="225.72" y="65.43" width="15.12" height="4.54" />
+                <rect class="cls-11" x="193.23" y="24.25" width="26.33" height="4.54" />
+                <rect class="cls-12" x="193.23" y="33.05" width="32.77" height="4.54" />
+                <rect class="cls-11" x="229.36" y="33.05" width="16.24" height="4.54" />
+                <rect class="cls-11" x="193.23" y="41.84" width="12.88" height="4.54" />
+                <rect class="cls-11" x="210.59" y="41.84" width="48.45" height="4.54" />
+                <rect class="cls-13" x="225.72" y="24.25" width="15.12" height="4.54" />
+                <rect class="cls-11" x="103.66" y="65.43" width="26.33" height="4.54" />
+                <rect class="cls-12" x="103.66" y="74.22" width="32.77" height="4.54" />
+                <rect class="cls-11" x="139.79" y="74.22" width="16.24" height="4.54" />
+                <rect class="cls-11" x="103.66" y="83.02" width="12.88" height="4.54" />
+                <rect class="cls-11" x="121.03" y="83.02" width="48.45" height="4.54" />
+                <rect class="cls-13" x="136.15" y="65.43" width="15.12" height="4.54" />
+                <rect class="cls-11" x="103.66" y="24.25" width="26.33" height="4.54" />
+                <rect class="cls-12" x="103.66" y="33.05" width="32.77" height="4.54" />
+                <rect class="cls-11" x="139.79" y="33.05" width="16.24" height="4.54" />
+                <rect class="cls-11" x="103.66" y="41.84" width="12.88" height="4.54" />
+                <rect class="cls-11" x="121.03" y="41.84" width="48.45" height="4.54" />
+                <rect class="cls-13" x="136.15" y="24.25" width="15.12" height="4.54" />
+                <g id="_Group_" data-name="&lt;Group&gt;">
+                    <path class="cls-4" d="M264.46,127.88H91.65a13.43,13.43,0,0,1-13.42-13.41v-101A13.43,13.43,0,0,1,91.65,0H264.46a13.43,13.43,0,0,1,13.42,13.42V114.47A13.43,13.43,0,0,1,264.46,127.88ZM91.65,8.05a5.37,5.37,0,0,0-5.37,5.37V96.55a5.37,5.37,0,0,0,5.37,5.37H264.46a5.37,5.37,0,0,0,5.37-5.37V13.42a5.37,5.37,0,0,0-5.37-5.37Z" />
+                </g>
+                <path class="cls-14" d="M260.32,105.52l.39-1.71a13.7,13.7,0,0,0-4-13.07h0a13.67,13.67,0,0,0-13.34-3l-.83.26,10.29,9.55-1.56,6.85-6.72,2.08-10.3-9.55-.19.84a13.67,13.67,0,0,0,4,13.08h0a13.67,13.67,0,0,0,13.34,3l1.68-.52,15.11,14a13.46,13.46,0,0,0,8.25-6.87Z" />
+                <path class="cls-5" d="M264.46,6.08H91.65a5.37,5.37,0,0,0-5.37,5.37v2a5.37,5.37,0,0,1,5.37-5.37H264.46a5.37,5.37,0,0,1,5.37,5.37v-2A5.37,5.37,0,0,0,264.46,6.08Z" />
+                <path class="cls-5" d="M264.46,125.91H91.65A13.43,13.43,0,0,1,78.23,112.5v2a13.43,13.43,0,0,0,13.42,13.41H264.46a13.43,13.43,0,0,0,13.42-13.41v-2A13.43,13.43,0,0,1,264.46,125.91Z" />
+                <path class="cls-11" d="M261.12,12.47a2,2,0,1,1-2-2A2,2,0,0,1,261.12,12.47Z" />
+                <path class="cls-9" d="M254.1,12.47a2,2,0,1,1-2-2A2,2,0,0,1,254.1,12.47Z" />
+                <path class="cls-12" d="M247.07,12.47a2,2,0,1,1-2-2A2,2,0,0,1,247.07,12.47Z" />
+                <polygon class="cls-2" points="72.42 155.79 115.73 53.83 109.79 51.31 65.41 155.79 72.42 155.79" />
+                <path class="cls-2" d="M72.71,72.8h0a3.23,3.23,0,0,1,3.23-3.23H103.6V76H75.94A3.23,3.23,0,0,1,72.71,72.8Z" />
+                <rect class="cls-2" x="76.15" y="80.42" width="6.45" height="30.77" transform="translate(175.18 16.43) rotate(90)" />
+                <rect class="cls-2" x="66.59" y="103.08" width="6.45" height="31.46" transform="translate(188.63 49) rotate(90)" />
+                <rect class="cls-2" x="56.79" y="126.55" width="6.45" height="30.54" transform="translate(201.84 81.8) rotate(90)" />
+                <path class="cls-15" d="M298.2,147.47l-34.54-49,.74-1.59a13.69,13.69,0,0,0-13.65-19.38l-.86.08L258,89l-3,6.38L248,96l-8.09-11.48-.37.79a13.69,13.69,0,0,0,13.65,19.38l1.75-.16,34.54,49a5.32,5.32,0,1,0,8.7-6.13Z" />
+                <path class="cls-4" d="M293,149.38h0a2.62,2.62,0,0,1-3.65-.64l-28.93-41.08a2.61,2.61,0,0,1,.63-3.65h0a2.62,2.62,0,0,1,3.65.63l28.93,41.09A2.62,2.62,0,0,1,293,149.38Z" />
+                <path class="cls-16" d="M349.61,273H5.62A5.62,5.62,0,0,1,0,267.34H0a5.62,5.62,0,0,1,5.62-5.62h344a5.62,5.62,0,0,1,5.62,5.62h0A5.62,5.62,0,0,1,349.61,273Z" />
+            </g>
+        </g>
+    </g>
+</svg>
